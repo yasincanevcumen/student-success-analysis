@@ -10,7 +10,7 @@ Bu proje, öğrencilerin akademik başarılarını etkileyen faktörleri veri bi
 
 ## 📁 Dosya Yapısı
 
-- `habits.py`: Tüm analiz süreci
+- `analysis.py`: Tüm analiz süreci
 - `data/student_study_habits.csv`: Veri seti
 - `outputs/`: Grafikler
 - `report/student_analysis.md`: Akademik rapor
