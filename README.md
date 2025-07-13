@@ -22,7 +22,3 @@ Bu proje, öğrencilerin akademik başarılarını etkileyen faktörleri veri bi
 - Ebeveyn eğitiminin etkisi sınırlı düzeydedir (istatistiksel olarak anlamlı fark bulunmamıştır).
 - Devamsızlık tek başına başarıyı belirlemez.
 
-## 📎 İlgili Bağlantılar
-
-- 📄 [Analiz Raporu](report/student_analysis.md)
-- 📌 [Medium Yazısı](https://medium.com/@ycevcumen/...)
